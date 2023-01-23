@@ -11,3 +11,4 @@ print("W sumie kupuję", sum(len(v) for v in Lista_zakopow.values()), "produktó
 print("Hiszpańska inkwizycja to najlepszy skecz")
 
 print("zmiana1")
+print("zmiana2)
